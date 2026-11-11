@@ -1,0 +1,14 @@
+# local inputs (copyrighted: never commit)
+input/*
+!input/README.md
+*.wad
+*.gb
+*.gbc
+fwdc*.bin
+# fetched dependencies and build output
+deps/
+build/
+out/
+.venv/
+__pycache__/
+*.pyc

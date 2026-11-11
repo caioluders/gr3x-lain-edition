@@ -1,0 +1,4 @@
+ziglang==0.13.0
+pyelftools==0.32
+unicorn==2.1.4
+Pillow>=11,<13
