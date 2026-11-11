@@ -6,7 +6,7 @@ Everything is additive: the camera works as before.
 
 [![Watch it running on the camera (YouTube)](https://img.youtube.com/vi/NkyJE5t3QmY/maxresdefault.jpg)](https://youtu.be/NkyJE5t3QmY)
 
-*Click the picture to watch it running on the camera.*
+**Video:** https://youtu.be/NkyJE5t3QmY
 
 > **Warning:** this mod is fully vibecoded — the reverse engineering and all the code
 > were written by an AI, with a human flashing and testing. It **was tested on a real
